@@ -85,5 +85,5 @@ colnames(group.means)[1] <- "subject"
 
 colnames(group.means)[2] <- "activity"
 
-write.table(group.means, file="./group_means.txt", row.name=FALSE)
+write.table(group.means, file="./output.txt", row.name=FALSE)
 
