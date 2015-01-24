@@ -1,7 +1,7 @@
 # GettingAndCleaningData
-Procedure for creating the output dataset.
+## Procedure for creating the output dataset.
 
-## Working directory is a folder called "Course Project" in which the "UCI HAR Dataset" folder is contained
+Note: Working directory is a folder called "Course Project" in which the "UCI HAR Dataset" folder is contained
 
 1) Subset the "features" data frame to include only the mean() and std() variables for each signal. Note that this exludes other means calculated on variables like angle() that are already derived from the signals.
 
