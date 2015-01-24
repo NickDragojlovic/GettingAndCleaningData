@@ -1,5 +1,4 @@
-# GettingAndCleaningData
-## Procedure for creating the output dataset.
+# Procedure for creating the output dataset.
 
 Note: Working directory is a folder called "Course Project" in which the "UCI HAR Dataset" folder is contained
 
