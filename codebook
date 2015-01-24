@@ -1,0 +1,4 @@
+The first two columns in the output data indicate the subject ID and activity, respectively.
+Given 30 subjects and 6 activities, this results in 180 observations.
+The other 66 columns show the average value of the indicated variable for all observations
+in the full data of the subject in question while doing that activity.
